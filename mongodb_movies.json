@@ -1,0 +1,6 @@
+{"_id":{"$oid":"5c7aa337c27cdb30ecb6fe2d"},"movie_name":"titanic","relase_date":"1997","length":"192"}
+{"_id":{"$oid":"5c7aa3df54a66d30ec731622"},"movie_name":"Bad Boy Bubby","relase_date":"1993","length":"120"}
+{"_id":{"$oid":"5c7aa40854a66d30ec731623"},"movie_name":"The Goodfellas","relase_date":"1994","length":"123"}
+{"_id":{"$oid":"5c7aa42554a66d30ec731624"},"movie_name":"The Rocky Horror Picture Show","relase_date":"1975","length":"123"}
+{"_id":{"$oid":"5c7aa5aa54a66d30ec731625"},"movie_name":"American History X","relase_date":"1998","length":"113"}
+{"_id":{"$oid":"5c7aa5d154a66d30ec731626"},"movie_name":"The Shawshank Redemption","relase_date":"1994","length":"133"}

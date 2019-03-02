@@ -1,0 +1,26 @@
+<h1 style="text-align: center">my movies:</h1>
+<div style="display: flex; justify-content: center;align-items: center">  
+<br/>
+<table>
+  <tr>
+    <th>Movie name</th>
+    <th>Release<br/>Date</th>
+    <th>Movie<br/>Length</th>
+  </tr>
+  <tr *ngFor="let movie of allMovies;">
+    <td>
+      {{movie.movie_name}}
+
+    </td>
+    <td>
+      {{movie.relase_date}}
+
+    </td>
+    <td>
+      {{movie.length}}
+
+    </td>
+  </tr>
+
+</table>
+</div>
